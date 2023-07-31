@@ -1,0 +1,7 @@
+{
+  "name": "pciForm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
